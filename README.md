@@ -17,14 +17,14 @@ The goal is to combine **predictive accuracy** with **transparent, actionable ex
 ## Data
 - **Source:** [Specify dataset source: internal bank data, public credit dataset, etc.]
 - **Size & Period:** [e.g., 500k applicants, 2018–2023]
-- **Features:** Financial ratios, credit history metrics, behavioral indicators, demographic variables (with fairness considerations).
+- **Features:** Financial ratios, credit history metrics, behavioural indicators, demographic variables (with fairness considerations).
 - **Preprocessing:** Missing value imputation, feature scaling, encoding categorical variables.
 - **Bias Mitigation:** [Outline methods used, e.g., reweighing, disparate impact analysis.]
 
 ---
 
 ## Model Architecture
-- Predictive Model(s): [e.g., XGBoost, LightGBM, Logistic Regression]
+- Predictive Model(s): [Logistic Regression, XGBoost, Deep Learning (Keras) ]
 - Rationale for Model Choice: Balances accuracy, interpretability, and scalability.
 - Hyperparameters: See `config/` directory.
 
@@ -41,8 +41,7 @@ The goal is to combine **predictive accuracy** with **transparent, actionable ex
 ## Evaluation
 - **Performance Metrics:** AUC, F1-score, precision, recall.
 - **Explanation Metrics:** Fidelity, stability, comprehensibility, actionability.
-- **User Studies:** Feedback from domain experts (if applicable).
-- **Example Outputs:** See `examples/` directory for sample explanations.
+- **Outputs:** ??????????????
 
 ---
 
