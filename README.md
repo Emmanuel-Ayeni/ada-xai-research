@@ -26,6 +26,9 @@ The goal is to combine **predictive accuracy** with **transparent, actionable ex
 ---
 
 ## Model Architecture
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/31b12b79-4569-4743-985b-1304fbe7c4d0" />
+
 - Predictive Model(s): [Logistic Regression, XGBoost, Deep Learning (Keras) ]
 - Rationale for Model Choice: Balances accuracy, interpretability, and scalability.
 - Hyperparameters: See `config/` directory.
