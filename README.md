@@ -4,6 +4,8 @@
 This repository contains the implementation and evaluation of an Explainable AI (XAI) framework for predicting and interpreting credit risk decisions.  
 The goal is to combine **predictive accuracy** with **transparent, actionable explanations** that support regulatory compliance, fairness, and trust in automated lending decisions.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f5b806c-5f06-4d13-b152-d27575a60101" />
+
 ---
 
 ## Objectives
